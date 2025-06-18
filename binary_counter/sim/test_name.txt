@@ -1,0 +1,8 @@
+cntr_reset_test
+cntr_load_test
+cntr_up_count_test
+cntr_down_count_test
+cntr_roll_over_test
+cntr_reverse_roll_over_test
+cntr_random_test
+cntr_disable_test
