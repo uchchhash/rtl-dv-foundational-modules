@@ -1,0 +1,5 @@
+set_merge -union
+merge ./cov_work/scope/* -output cov_out
+load_test ./cov_work/scope/*
+report_html *
+exit

@@ -1,0 +1,9 @@
+irun(64): 15.20-s086: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+TOOL:	irun(64)	15.20-s086: Started on Sep 12, 2024 at 14:08:46 +06
+irun
+	filelist_new.f
+	-access +rwc
+	-timescale 1ns/10ps
+irun: *E,FMUK: The type of the file (filelist_new.f) could not be determined.
+irun: *E,FILEMIS: Cannot find the provided file filelist_new.f.
+TOOL:	irun(64)	15.20-s086: Exiting on Sep 12, 2024 at 14:08:46 +06  (total: 00:00:00)

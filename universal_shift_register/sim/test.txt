@@ -1,0 +1,6 @@
+reset_test
+data_load_test
+left_shift_test
+right_shift_test
+hold_test
+random_test
